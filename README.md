@@ -11,7 +11,7 @@ Bu menü tabanlı C programı, kullanıcıdan aldığı sayılarla çeşitli tem
 - Rakamların toplamını bulma  
 - N adet sayının ortalamasını hesaplama  
 
-## 🇬🇧 Project Description
+## EN Project Description
 
 This menu-driven C program performs basic numeric operations using user input:  
 - Check if number is even or odd  
